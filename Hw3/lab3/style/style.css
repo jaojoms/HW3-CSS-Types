@@ -1,0 +1,13 @@
+b{
+    background-color: yellow;
+    text-decoration: underline;
+}
+.gray-bg,input{
+    background-color: gray;
+}
+#year{
+    font-weight: bold;
+    font-style: italic;
+    color:red;
+}
+/* ธนวัฒน์ บัวลา */
